@@ -1,8 +1,9 @@
 /**
-* Name: save
-* Author: Noella
-* Description: 
-* Tags: Tag1, Tag2, TagN
+* Name: ABM for Hospital Building Evacuation 
+* Authors: ABIL team
+* Description: ABM for Hospital Building Evacuation 
+* NDEX TERMS : Evacuation modeling, Agent Based Modeling, Intelligent Agents, Fire breakout, Hospital
+building, Complex Systems Modeling, Model Simulation
 */
 
 model evacuation_incendie
